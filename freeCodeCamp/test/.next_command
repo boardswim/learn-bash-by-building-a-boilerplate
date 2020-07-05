@@ -611,3 +611,8 @@ cd website
 mv CodeAll.sgv client/assets/icons
 mv CodeAlly.sgv client/assets/icons
 mv CodeAlly.svg client/assets/icons
+pwd
+find
+clear
+cd /workspace/project/website
+find
