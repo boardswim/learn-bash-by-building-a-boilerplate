@@ -382,3 +382,4 @@ touch index.js
 __vsc_prompt_cmd_original
 clear
 touch .gitignore
+ls --color=auto
