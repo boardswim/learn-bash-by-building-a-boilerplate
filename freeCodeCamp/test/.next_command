@@ -477,3 +477,7 @@ cd ..
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+rm background.jpg website/images
+cd iamges
+cd images
+rm background.jpg
