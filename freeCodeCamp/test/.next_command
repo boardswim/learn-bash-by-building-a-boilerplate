@@ -502,3 +502,13 @@ rmdir icons
 ls --color=auto
 cd ../..
 mkdir client/assets/icons
+clear
+git add .
+git commit -m "mañana más"
+git commit -a "mañana más"
+git commit -b "mañana más"
+git push
+git pull
+git add .
+git commit -m "mañana"
+git commit -a
