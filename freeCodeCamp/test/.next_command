@@ -484,3 +484,21 @@ rm background.jpg
 cd ..
 rmdir images
 ls --color=auto
+__vsc_prompt_cmd_original
+find
+mkdir icons website/client/assets
+mkdir icons ./client/assets
+find
+mkdir icons ./client/assets/
+ls --color=auto
+cd client/
+ls --color=auto
+cd assets/
+ls --color=auto
+mkdir icons
+ls --color=auto
+mrdir icons
+rmdir icons
+ls --color=auto
+cd ../..
+mkdir client/assets/icons
