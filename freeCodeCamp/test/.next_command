@@ -367,3 +367,4 @@ cd has
 clear
 cd ..
 cd ../..
+ls --color=auto
