@@ -383,3 +383,5 @@ __vsc_prompt_cmd_original
 clear
 touch .gitignore
 ls --color=auto
+command --help
+ls --color=auto --help
