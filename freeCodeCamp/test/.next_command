@@ -481,3 +481,5 @@ rm background.jpg website/images
 cd iamges
 cd images
 rm background.jpg
+cd ..
+rmdir images
