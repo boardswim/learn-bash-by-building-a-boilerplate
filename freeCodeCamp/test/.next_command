@@ -463,3 +463,4 @@ ls --color=auto
 mv client/assets/images/find -a
 find -a
 find -name images
+mv header.png ./client/assets/images
