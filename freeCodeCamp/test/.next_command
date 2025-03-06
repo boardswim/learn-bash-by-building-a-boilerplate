@@ -616,3 +616,4 @@ find
 clear
 cd /workspace/project/website
 find
+mv CodeRoad.svg client/assets/icons
