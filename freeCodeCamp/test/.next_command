@@ -605,3 +605,9 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 [[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
+mv CodeAll.sgv ./website/client/assets/icons
+mv CodeAll.sgv client/assets/icons
+cd website
+mv CodeAll.sgv client/assets/icons
+mv CodeAlly.sgv client/assets/icons
+mv CodeAlly.svg client/assets/icons
